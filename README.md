@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4BDB,100:9B5DE5&height=190&section=header&text=Sanju%20A%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Information%20Science%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" alt="Sanju A S portfolio banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09251D,100:38B77A&height=190&section=header&text=Sanju%20A%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Information%20Science%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" alt="Sanju A S portfolio banner">
 
 <a href="https://github.com/sanju286"><img src="https://img.shields.io/badge/GitHub-sanju286-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
-<a href="https://sanju286.github.io/sanju286/"><img src="https://img.shields.io/badge/Portfolio-Visit-5B4BDB?style=for-the-badge" alt="Visit portfolio"></a>
+<a href="https://sanju286.github.io/sanju286/"><img src="https://img.shields.io/badge/Portfolio-Visit-198754?style=for-the-badge" alt="Visit portfolio"></a>
 <a href="https://www.linkedin.com/in/sanju-a-s-22b743285"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
-<a href="https://sanju286.github.io/sanju286/"><img src="https://img.shields.io/badge/Portfolio-Visit-5B4BDB?style=for-the-badge" alt="Visit portfolio"></a>
-<img src="https://img.shields.io/badge/B.E.-Information%20Science-5B4BDB?style=for-the-badge" alt="B.E. Information Science and Engineering">
-<img src="https://img.shields.io/badge/CGPA-8.2%2F10-7B61FF?style=for-the-badge" alt="CGPA 8.2 out of 10">
-<img src="https://img.shields.io/badge/Graduated-2026-6F42C1?style=for-the-badge" alt="Graduated 2026">
+<img src="https://img.shields.io/badge/B.E.-Information%20Science-198754?style=for-the-badge" alt="B.E. Information Science and Engineering">
+<img src="https://img.shields.io/badge/CGPA-8.2%2F10-2DAA6A?style=for-the-badge" alt="CGPA 8.2 out of 10">
+<img src="https://img.shields.io/badge/Graduated-2026-166534?style=for-the-badge" alt="Graduated 2026">
 
 </div>
 
@@ -33,9 +32,9 @@ I completed a Data Science internship at **Take It Smart** in Bengaluru, where I
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Prediction%20accuracy-+15%25-5B4BDB?style=for-the-badge" alt="Improved prediction accuracy by 15 percent">
-<img src="https://img.shields.io/badge/Selected%20model-Gradient%20Boosting-7B61FF?style=for-the-badge" alt="Selected model: Gradient Boosting">
-<img src="https://img.shields.io/badge/Model%20score-R%C2%B2%200.91-6F42C1?style=for-the-badge" alt="R squared score 0.91">
+<img src="https://img.shields.io/badge/Prediction%20accuracy-+15%25-198754?style=for-the-badge" alt="Improved prediction accuracy by 15 percent">
+<img src="https://img.shields.io/badge/Selected%20model-Gradient%20Boosting-2DAA6A?style=for-the-badge" alt="Selected model: Gradient Boosting">
+<img src="https://img.shields.io/badge/Model%20score-R%C2%B2%200.91-166534?style=for-the-badge" alt="R squared score 0.91">
 
 </div>
 
@@ -52,13 +51,13 @@ I completed a Data Science internship at **Take It Smart** in Bengaluru, where I
 <img src="https://img.shields.io/badge/Gradient%20Boosting-2E8B57?style=for-the-badge" alt="Gradient Boosting">
 
 **Evaluation & data**  
-<img src="https://img.shields.io/badge/R%C2%B2-Model%20evaluation-5B4BDB?style=for-the-badge" alt="R squared model evaluation">
-<img src="https://img.shields.io/badge/RMSE-Model%20evaluation-7B61FF?style=for-the-badge" alt="Root mean squared error model evaluation">
-<img src="https://img.shields.io/badge/Feature%20evaluation-Data%20science-6F42C1?style=for-the-badge" alt="Feature evaluation">
+<img src="https://img.shields.io/badge/R%C2%B2-Model%20evaluation-198754?style=for-the-badge" alt="R squared model evaluation">
+<img src="https://img.shields.io/badge/RMSE-Model%20evaluation-2DAA6A?style=for-the-badge" alt="Root mean squared error model evaluation">
+<img src="https://img.shields.io/badge/Feature%20evaluation-Data%20science-166534?style=for-the-badge" alt="Feature evaluation">
 
 **Areas of interest**  
 <img src="https://img.shields.io/badge/Data%20analytics-2867B2?style=for-the-badge" alt="Data analytics">
-<img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge" alt="Generative AI">
+<img src="https://img.shields.io/badge/Generative%20AI-2DAA6A?style=for-the-badge" alt="Generative AI">
 <img src="https://img.shields.io/badge/Data%20quality-00897B?style=for-the-badge" alt="Data quality">
 
 </div>
@@ -125,8 +124,8 @@ Data mining project to predict hospital admissions from emergency department dat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/15%25-Accuracy%20improvement-5B4BDB?style=for-the-badge" alt="15 percent accuracy improvement">
-<img src="https://img.shields.io/badge/R%C2%B2%200.91-Gradient%20Boosting%20selected-7B61FF?style=for-the-badge" alt="Gradient Boosting selected with R squared 0.91">
+<img src="https://img.shields.io/badge/15%25-Accuracy%20improvement-198754?style=for-the-badge" alt="15 percent accuracy improvement">
+<img src="https://img.shields.io/badge/R%C2%B2%200.91-Gradient%20Boosting%20selected-2DAA6A?style=for-the-badge" alt="Gradient Boosting selected with R squared 0.91">
 
 </div>
 
@@ -134,7 +133,7 @@ Data mining project to predict hospital admissions from emergency department dat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Data%20Analytics%20with%20AI-5B4BDB?style=for-the-badge" alt="IBM SkillsBuild Data Analytics with AI">
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Data%20Analytics%20with%20AI-198754?style=for-the-badge" alt="IBM SkillsBuild Data Analytics with AI">
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials">
 <img src="https://img.shields.io/badge/IBM-Generative%20AI%20Essentials-1261FE?style=for-the-badge" alt="IBM Generative AI Essentials">
 
@@ -144,8 +143,8 @@ Data mining project to predict hospital admissions from emergency department dat
 
 <div align="center">
 
-<a href="https://github.com/sanju286"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sanju286&show_icons=true&hide_border=true&theme=transparent&title_color=9B5DE5&icon_color=9B5DE5" alt="Sanju's GitHub statistics"></a>
-<a href="https://github.com/sanju286"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju286&layout=compact&hide_border=true&theme=transparent&title_color=9B5DE5" alt="Most used languages"></a>
+<a href="https://github.com/sanju286"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sanju286&show_icons=true&hide_border=true&theme=transparent&title_color=2FBF71&icon_color=2FBF71" alt="Sanju's GitHub statistics"></a>
+<a href="https://github.com/sanju286"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju286&layout=compact&hide_border=true&theme=transparent&title_color=2FBF71" alt="Most used languages"></a>
 
 </div>
 
@@ -154,8 +153,8 @@ Data mining project to predict hospital admissions from emergency department dat
 <div align="center">
 
 <img src="https://img.shields.io/badge/Exploring-Data%20analytics-2867B2?style=for-the-badge" alt="Exploring data analytics">
-<img src="https://img.shields.io/badge/Building%20skills-Machine%20learning-5B4BDB?style=for-the-badge" alt="Building machine learning skills">
-<img src="https://img.shields.io/badge/Learning-Generative%20AI-7B61FF?style=for-the-badge" alt="Learning generative AI">
+<img src="https://img.shields.io/badge/Building%20skills-Machine%20learning-198754?style=for-the-badge" alt="Building machine learning skills">
+<img src="https://img.shields.io/badge/Learning-Generative%20AI-2DAA6A?style=for-the-badge" alt="Learning generative AI">
 
 </div>
 
